@@ -14,7 +14,7 @@ CRA GST/HST Statistics 2025 Edition (2019–2023), Open Government Licence – C
 Dataset: https://open.canada.ca/data/en/dataset/16291938-ae5d-40db-90e3-8b6c09a86ad9
 
 ## Workflow Canvas
-![Alteryx Workflow Canvas](canvas.png)
+![Alteryx Workflow Canvas](Canvas.png)
 
 ## What the Workflow Does
 1. **Ingest** — loads three CRA source tables
